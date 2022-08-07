@@ -1,4 +1,5 @@
 # KRSSG-git-sandbox
+
 - Resources:
   - Git tutorial- https://try.github.io
   - Book on Git- [Pro Git](http://git-scm.com/book/en/v2)
@@ -24,6 +25,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 ### Entries
 
 Yelisetty Karthikeya S M [lurkingryuu](https://github.com/lurkingryuu)
+**Kishan Jesalpura** [kishanjesalpura](https://github.com/kishanjesalpura)
 
 ## Task 2
 

@@ -25,8 +25,11 @@ Your entry should maintain alphabetic order and it should be in the format:
 ### Entries
 Abhinav R Cillanki [JebronLames32](https://github.com/JebronLames32)
 
-**Kishan Jesalpura** [kishanjesalpura](https://github.com/kishanjesalpura)
- 
+
+
+ - Kishan Jesalpura [kishanjesalpura](https://github.com/kishanjesalpura)
+
+
 ## Task 2
 
 After all of you send a Pull Request, I'll add my name to 'Entries'. 

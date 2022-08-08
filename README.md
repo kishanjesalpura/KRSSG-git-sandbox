@@ -23,6 +23,8 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 ### Entries
 
+Smarak Kanjilal [DevOp972]
+
  - Kishan Jesalpura [kishanjesalpura](https://github.com/kishanjesalpura)
 
 ## Task 2

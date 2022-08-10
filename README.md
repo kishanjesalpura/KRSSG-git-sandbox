@@ -24,7 +24,11 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 ### Entries
 
+Nidhi Nandwani [nidz27](https://github.com/nidz27)
+
+
 **Kishan Jesalpura** [kishanjesalpura](https://github.com/kishanjesalpura)
+
 
 ## Task 2
 
